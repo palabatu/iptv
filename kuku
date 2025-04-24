@@ -163,7 +163,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 #EXTINF:-1 group-title="Movies" group-logo="https://aqfadtv.xyz/images/movies.png" ch-number="128" tvg-id="128" ch-number="128" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema
 #https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live27.mpd
-
+https://b2le.short.gy/SNAKE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.aqfadtv.xyz/unifitv/duniasinema/
 #EXTVLCOPT:http-referrer=https://playtv.unifi.com.my/
