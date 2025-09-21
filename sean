@@ -1,0 +1,11 @@
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="SPORTS" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton FHD
+: https://live.catvod.com/catvod_com.php?id=go_badminton1&token=9bb231f7e40116ce5d159915f55584feec109db59f9eba12c5a5c3b0252e6a63:1758337016
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"g3KLRwGavbs3qjbtXylRvQ", "kid":"b/DgQNVE7D8CJDhlmQ8MEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton HD
+#EXTVLCOPT: https://live.catvod.com/catvod_com.php?id=go_badminton1&token=9bb231f7e40116ce5d159915f55584feec109db59f9eba12c5a5c3b0252e6a63:1758337016 
+
+https://live.catvod.com/catvod_com.php?id=go_badminton1&token=9bb231f7e40116ce5d159915f55584feec109db59f9eba12c5a5c3b0252e6a63:1758337016
