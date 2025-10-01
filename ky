@@ -1,0 +1,6 @@
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0bbb23a5ad81427fa6817864b2383402":"81e055a8d6ddf6392ae9033f0f037b98","1bca05447d354cb4913a66e125fb75ef":"45253aa554c444961fb6a4432abb6b1c"}
+#EXTINF:-1 tvg-id="AstroBadminton" ch-number="815" group-title="Sports" ch-number="815" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png",815 Astro Badminton HD
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#https://linears2-playback.astro.com.my/vsg/41YXuIabnMvWeCY0K9C2zC1QPn0kT7fMHw46mtMvjWeOc=vJa3/dash-wv/jitp-dashisowm/5170/default_primary.mpd
+
